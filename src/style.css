@@ -279,13 +279,11 @@ input {
     .right-side {
         -ms-flex-wrap: wrap;
         flex-wrap: wrap;
-        q
     }
 
     .left-side {
         min-width: 100%;
     }
-
     .block-right,
     .block-left {
         width: 100%;
